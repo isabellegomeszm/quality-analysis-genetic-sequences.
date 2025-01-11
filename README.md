@@ -20,6 +20,7 @@ The project uses various bioinformatics tools for processing genetic data:
 # Repository Structure
 
 The repository is organized as follows:
+
 /quality-analysis-genetic-sequences
 
 ├── scripts/
@@ -42,6 +43,7 @@ The repository is organized as follows:
 - Clone the repository to your local machine:
 
 git clone https://github.com/isabellegomeszm/quality-analysis-genetic-sequences.git
+
 cd quality-analysis-genetic-sequences
 
 - Install the required dependencies to run the scripts (such as SRA Toolkit, Fastp, SPAdes, Prodigal, BLAST).

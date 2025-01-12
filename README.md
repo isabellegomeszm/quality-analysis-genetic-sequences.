@@ -48,7 +48,9 @@ The repository is organized as follows:
 
   blast_results.txt      # Results of functional annotation with BLAST
 
-- README.md                  # Repository documentation
+  
+
+- README.md               # Repository documentation
 
 
 

@@ -21,9 +21,10 @@ The project uses various bioinformatics tools for processing genetic data:
 
 The repository is organized as follows:
 
-/quality-analysis-genetic-sequences/
+/quality-analysis-genetic-sequences
 
 - scripts/
+  
   sra_toolkit.sh        # Script for downloading SRA sequences and converting them to FASTQ
 
   count_reads.sh         # Script for counting reads in FASTQ files
@@ -38,6 +39,7 @@ The repository is organized as follows:
   
 
 - results/
+  
   contigs.fasta          # Contig file generated from assembly
 
   scaffolds.fasta        # Scaffold file generated from SPAdes
